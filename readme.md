@@ -36,4 +36,4 @@ Non servono dipendenze né build.
 
 # Licence
 
-Catherine NTANDA
+Catherine NTANDA & Company
