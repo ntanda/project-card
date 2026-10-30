@@ -10,6 +10,6 @@ btn_text.addEventListener('click', (e)=>{
         e.target.textContent = 'Mostra testo';
         return;
     }
-    text.style.display = 'none';
+    text.style.display = 'block';
     e.target.textContent = 'Nascondi testo';
 })
