@@ -15,7 +15,8 @@ ehthumbs_vista.db
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
-
+# File che puo contenere variabili sensibili
+.env
 
 # Windows Installer files
 *.cab
