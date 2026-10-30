@@ -33,3 +33,7 @@ Non servono dipendenze né build.
 1. Vai su **Settings → Pages** nel repository.
 2. Seleziona **Deploy from a branch**, branch `main`, cartella `/ (root)`.
 3. Il sito sarà disponibile su `https://<Catherine NTANDA>.github.io/<ntanda-repo>/`.
+
+# Licence
+
+Catherine NTANDA
